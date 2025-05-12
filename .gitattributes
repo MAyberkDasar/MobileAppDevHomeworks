@@ -18,6 +18,3 @@
 *.xc* linguist-detectable=false
 Podfile linguist-detectable=false
 CMakeLists.txt linguist-detectable=false
-
-lib/** linguist-language=Dart
-
